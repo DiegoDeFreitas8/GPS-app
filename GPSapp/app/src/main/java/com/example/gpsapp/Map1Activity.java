@@ -85,7 +85,7 @@ public class Map1Activity extends AppCompatActivity implements OnMapReadyCallbac
 
 
     private static final String TAG = "Map1";
-    private String key = "AIzaSyDySPCwdauxqvmwHlTZ3DG9JMR6DCIB6gY";
+    private String key = "AIzaSyB_TcLbO3s1puG-5mynGd8ymGEaHobGSGA";
     private static final String FineLocation = Manifest.permission.ACCESS_FINE_LOCATION;
     private static final String CourseLocation = Manifest.permission.ACCESS_COARSE_LOCATION;
     private static final int LOCATION_PERMISSION_REQUEST_CODE = 1234;
